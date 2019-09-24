@@ -1,0 +1,310 @@
+body{
+        line-height: 2;
+	    font-family: rubik,arial,sans-serif;
+}
+* p,span{
+	color:gray;
+}
+h1{
+	font-size: 40px;
+}
+header{
+	width:60%;
+	text-align:center;
+	height: 50px;
+}
+#brand{
+	float:left;
+	text-decoration: none;
+	font-weight: bold;
+	letter-spacing: 1px;
+	line-height: 50px;
+
+}
+a:link{
+	color:#000;
+}
+#w{
+	float:right;
+	line-height: 50px;
+}
+a,select{
+	padding-right: 5px;
+}
+a{
+	text-decoration: none;
+}
+#f{
+	margin-left:100px;
+	float:right;
+	line-height: 50px;
+	padding-right: 30px;
+	
+}
+.bg{
+	clear:both;
+	background-image: url("../imgs/man.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+ .bg div h1{
+	color:#fff;
+	padding-top:350px;
+}
+form{
+	background-color:#fff;
+	width:50%;
+	height: 60px;
+
+}
+.q{
+	/*margin:10px;*/
+	line-height: 50px;
+	margin-left: 35px;
+	/*margin: 20px;*/
+	border: none;
+}
+.ds{
+	size:100px;
+	margin-bottom: 300px;
+	margin-top: 50px;
+    
+}
+.dsv{
+	border:none;
+	color:#fff;
+    background-color:#11cbd7;
+    box-sizing: border-box;
+    border-radius: 4px;
+     padding: 16px 32px;
+}
+h3{
+	color:#fff !important;
+}
+.r{
+	margin-left:160px;
+	margin-top: 5px;
+}
+.er{
+	/*height: 500px;*/
+	float:left;
+	/*margin-left:350px;*/
+	width:500px;
+	text-align: justify;
+	margin:100px 20px 100px 200px;
+}
+iframe{
+	/*height: 500px;*/
+	margin-right: 200px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	float:right;
+	width:500px;
+}
+section{
+	line-height: 40px;
+	text-align: center;
+}
+section div h1, section div h4{
+	color:#11cbd7;
+
+}
+.x{
+
+	clear:both;
+	float:left;
+	display:inline-block;
+	margin-left:140px;
+}
+.po{
+	float:left;
+	width:250px;
+	text-align: justify;
+	margin-left:70px;
+}
+.fs{
+	border:none;
+	color:#11cbd7;
+	background-color: #fff;
+}
+/*section .mb{
+	background-color:#8c9196 !important;
+}*/
+.rews img{
+	width:550px;
+	margin-left:200px;
+	margin-top: 140px;
+	float:left;
+}
+.df{
+	margin-right: 150px;
+	margin-top: 150px;
+	margin-left:100px;
+	float:right;
+	width:500px;
+	text-align: justify;
+}
+.qr{
+	margin-top: 20px;
+}
+.dfh{
+
+	float:left;
+	
+}
+.uio{
+
+	float:right;
+	margin-right: 40px;
+	margin-left: 20px;
+
+}
+.qw{
+	margin-left: 13px;
+}
+.ws{
+	clear:both;
+	width: 650px;
+	padding-top: 100px;
+}
+.ws h1{
+	color:#11cbd7;
+}
+.as{
+	font-size: 40px;
+	 line-height: 0 !important;
+	}
+.awr{
+	float:left;
+	width:400px;
+	text-align: justify;
+	margin-left:85px;
+}
+.awr img{
+	width:400px;
+	margin-top: 50px;
+}
+.vvvv:hover{
+     outline:2px solid #11cbd7;
+}
+.ff{
+	float:left;
+}
+.iop{
+	float:right;
+}
+.iop p{
+	float:left;
+	text-decoration: line-through;
+}
+.dsvv{
+	border:none;
+	color:#fff;
+    background-color:#11cbd7;
+    box-sizing: border-box;
+    border-radius: 4px;
+     padding: 10px 10px;
+     margin-left: 10px;
+     margin-top: 10px;
+}
+.asdf{
+	height: 250px;
+}
+.afr{
+	background: -webkit-linear-gradient(top, #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 100%,#002400 100%);
+	height: 500px;
+	margin-bottom: 100px;
+}
+.ii{
+	margin-left:30px;
+	color:darkgray;
+	height: 10px;
+}
+.dfg{
+	margin-left:10px;
+}
+.dfgg{
+	margin-right: 30px;
+}
+.ii .ddd{
+	padding-top:30px;
+}
+.bsd{
+	float: :left;
+	padding-top: 350px;
+}
+.ii .bsd img{
+	float:left;
+	margin-right: 20px;
+	width:60px;
+	border-radius: 50px;
+}
+.rrr:hover{
+   color:#11cbd7;
+}
+.awrf{
+	float:left;
+	width:400px;
+	text-align: justify;
+	margin-left:200px;
+}
+.edds{
+	height: 300px;
+}
+.eddsm{
+	width:200px;
+	margin-left: 150px;
+}
+.qazx{
+	float:left;
+	width:500px;
+	text-align: justify;
+	margin-left:100px;
+}
+.dfrtt{
+	padding-bottom: 100px;
+}
+footer{
+	clear: both;
+}
+.if{
+	
+	background-color:#11cbd7; 
+}
+.wi{
+	width: 100%;
+}
+.rf{
+	text-align: justify;
+	padding-top: 50px;
+	padding-left: 150px;
+}
+.rfa{
+
+	padding-top: 100px;
+	padding-bottom: 150px;
+	margin:0;
+}
+.d{
+	background-color:#fff !important;
+	border-radius: 5px;
+	width:31%;
+}
+.cen{
+	width:90%;
+}
+footer a:link{
+	color:#11cbd7;
+}
+.flo{
+	clear:both;
+}
+.flo p{
+	float:left;
+}
+.dif{
+	float:right;
+}
+.col{
+	color:#fff;
+}
